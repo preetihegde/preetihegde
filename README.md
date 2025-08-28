@@ -58,8 +58,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetihegde&layout=compact&theme=tokyonight" height="140" />
 
 ### 🌍 Languages
-English (C1) · Deutsch (B2) · हिंदी / Hindi (fluent) · ಕನ್ನಡ / Kannada (native)
+English (C1) · Deutsch (B2 actively learning) · हिंदी / Hindi (fluent) · ಕನ್ನಡ / Kannada (native)
 
 ---
 
-<sub>Open to: Working-student / Junior Backend (Java) · AI/ML-adjacent backend roles · Germany/Remote</sub>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="README Github Banner" alt="Preeti Hegde">
+  <img src="assests/readme_banner" alt="Preeti Hegde">
 </p>
 
 

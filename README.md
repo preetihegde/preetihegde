@@ -1,9 +1,7 @@
-## Hi there 👋
-
-<h1 align="center">Hi, I’m YOURNAME 👋</h1>
 <p align="center">
-AI Engineer • Java Developer • Building useful stuff with ML + Cloud
+  <img src="README Github Banner" alt="Preeti Hegde">
 </p>
+
 
 <p align="center">
   <a href="mailto:you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-you@example.com-informational?style=flat"></a>

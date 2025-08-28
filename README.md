@@ -24,62 +24,72 @@
   </tr>
   </table>
 
+<hr>
 ## 🛠️ Skills
 
 **Programming Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,postgres,mysql&theme=dark" />
-  <br><sub>SQL shown via Postgres/MySQL</sub>
+  <img alt="Java" src="https://img.shields.io/badge/Java-0b0f17?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0b0f17?style=flat-square&logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0b0f17?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 
 **ML & Libraries**  
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
-  <br>
-  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-6b7280?style=flat-square">
-  <img alt="NLP" src="https://img.shields.io/badge/NLP-6b7280?style=flat-square">
-  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-6b7280?style=flat-square">
-  <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-6b7280?style=flat-square">
-  <img alt="PatchCore" src="https://img.shields.io/badge/PatchCore-6b7280?style=flat-square">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0b0f17?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0b0f17?style=flat-square&logo=tensorflow&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0b0f17?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-0b0f17?style=flat-square&logoColor=white">
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-0b0f17?style=flat-square&logoColor=white">
+  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-0b0f17?style=flat-square&logoColor=white">
+  <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-0b0f17?style=flat-square&logoColor=white">
+  <img alt="PatchCore" src="https://img.shields.io/badge/PatchCore-0b0f17?style=flat-square&logoColor=white">
 </p>
 
 **Frameworks**  
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-0b0f17?style=flat-square&logo=springboot&logoColor=white">
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-0b0f17?style=flat-square&logo=apachemaven&logoColor=white">
 </p>
 
 **Protocols / Web Services**  
 <p>
   <img alt="Spring Microservices" src="https://img.shields.io/badge/Spring%20Microservices-0b0f17?style=flat-square&logo=spring&logoColor=white">
   <img alt="REST API" src="https://img.shields.io/badge/REST%20API-0b0f17?style=flat-square&logo=swagger&logoColor=white">
-  <img alt="SOAP" src="https://img.shields.io/badge/SOAP-0b0f17?style=flat-square">
+  <img alt="SOAP" src="https://img.shields.io/badge/SOAP-0b0f17?style=flat-square&logo=soapui&logoColor=white">
 </p>
 
 **Data Formats**  
 <p>
   <img alt="JSON" src="https://img.shields.io/badge/JSON-0b0f17?style=flat-square&logo=json&logoColor=white">
-  <img alt="XML" src="https://img.shields.io/badge/XML-0b0f17?style=flat-square">
+  <img alt="XML" src="https://img.shields.io/badge/XML-0b0f17?style=flat-square&logoColor=white">
 </p>
 
 **Cloud / DevOps**  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-0b0f17?style=flat-square&logo=amazonaws&logoColor=white">
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-0b0f17?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0b0f17?style=flat-square&logo=docker&logoColor=white">
 </p>
 
 **Messaging**  
 <p>
-  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-0b0f17?style=flat-square&logo=apachekafka&logoColor=white">
 </p>
 
 **Developer Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,jira,confluence,bitbucket,tableau&theme=dark" />
-  <br>
-  <img alt="Flowable (BPMN)" src="https://img.shields.io/badge/Flowable%20(BPMN)-0b0f17?style=flat-square">
+  <img alt="Git" src="https://img.shields.io/badge/Git-0b0f17?style=flat-square&logo=git&logoColor=white">
+  <img alt="Flowable (BPMN)" src="https://img.shields.io/badge/Flowable%20(BPMN)-0b0f17?style=flat-square&logo=flowable&logoColor=white">
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0b0f17?style=flat-square&logo=jira&logoColor=white">
+  <img alt="Confluence" src="https://img.shields.io/badge/Confluence-0b0f17?style=flat-square&logo=confluence&logoColor=white">
+  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0b0f17?style=flat-square&logo=bitbucket&logoColor=white">
   <img alt="Bamboo" src="https://img.shields.io/badge/Bamboo-0b0f17?style=flat-square&logo=atlassian&logoColor=white">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
-  <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-0b0f17?style=flat-square&logo=microsoftexcel&logoColor=white">
+  <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-0b0f17?style=flat-square&logo=microsoftpowerpoint&logoColor=white">
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-0b0f17?style=flat-square&logo=tableau&logoColor=white">
 </p>
+
 
 
   
@@ -98,4 +108,8 @@
     </td>
   </tr>
 </table>
+
+### 📈 GitHub stats
+<img src="https://github-readme-stats.vercel.app/api?username=preetihegde&show_icons=true&hide_title=true&theme=tokyonight" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetihegde&layout=compact&theme=tokyonight" height="140" />
 

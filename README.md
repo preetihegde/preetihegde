@@ -98,7 +98,7 @@ Software Engineer with 2+ years of backend development experience and a Masterâ€
 <br>
 <strong><i>ðŸ“ˆ GitHub stats</i></strong>
 <hr>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=preetihegde&show_icons=true&theme=tokyonight" height="180" /> &nbsp;  &nbsp;  &nbsp; 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetihegde&show_icons=true&theme=tokyonight" height="180" />
 </p>

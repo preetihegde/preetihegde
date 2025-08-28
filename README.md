@@ -15,9 +15,10 @@ Software Engineer with 2+ years of backend development experience and a Master�
     - 📈 Positive and Solution-Oriented mindset <br>
     - 📚 Maintaining proper Documentation and Runbooks <br>
     - 🤝 Growth with support & honest feedback <br>
-   
- <strong> <i> 🛠️ Skills </i></strong>
 
+   <br><hr>
+ <strong> <i> 🛠️ Skills </i></strong>
+<hr>
 <i>Programming Languages </i> 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-f89820?style=flat&logo=openjdk&logoColor=white">
@@ -33,10 +34,10 @@ Software Engineer with 2+ years of backend development experience and a Master�
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-4D77CF?style=flat&logo=numpy&logoColor=white">
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
-  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-6b7280?style=flat&logoColor=white">
-  <img alt="NLP" src="https://img.shields.io/badge/NLP-6b7280?style=flat&logoColor=white">
-  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-6b7280?style=flat&logoColor=white">
-  <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-6b7280?style=flat&logoColor=white">
+  <img alt="Computer Vision"   src="https://img.shields.io/badge/-Computer%20Vision-a855f7?style=flat&logoColor=white">
+  <img alt="NLP"               src="https://img.shields.io/badge/-NLP-60a5fa?style=flat&logoColor=white">
+  <img alt="Deep Learning"     src="https://img.shields.io/badge/-Deep%20Learning-ec4899?style=flat&logoColor=white">
+  <img alt="Neural Networks"   src="https://img.shields.io/badge/-Neural%20Networks-34d399?style=flat&logoColor=white">
   <img alt="PatchCore" src="https://img.shields.io/badge/PatchCore-7E57C2?style=flat&logoColor=white">
 </p>
 
@@ -83,7 +84,7 @@ Software Engineer with 2+ years of backend development experience and a Master�
   <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white">
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
 </p>
-
+<br><hr>
 <strong><i>Contact details 📇  </i></strong>
 <hr>
   <a href="mailto:preetivhegde98@gmail.com">
@@ -93,15 +94,9 @@ Software Engineer with 2+ years of backend development experience and a Master�
   <a href="https://www.linkedin.com/in/preetivhegde/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
+<br><hr>
 <strong><i>📈 GitHub stats</i></strong>
 <hr>
-<table>
- <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=preetihegde&show_icons=true&hide_title=true&theme=tokyonight" height="140" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetihegde&layout=compact&theme=tokyonight" height="140" />
-    </td>
- </table>
+<img src="https://github-readme-stats.vercel.app/api?username=preetihegde&show_icons=true&hide_title=true&theme=tokyonight" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetihegde&layout=compact&theme=tokyonight" height="140" />
+  

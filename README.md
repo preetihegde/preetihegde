@@ -16,7 +16,7 @@ Software Engineer with 2+ years of backend development experience and a Master�
     - 📚 Maintaining proper Documentation and Runbooks <br>
     - 🤝 Growth with support & honest feedback <br>
 
-   <br><hr>
+ <br>
  <strong> <i> 🛠️ Skills </i></strong>
 <hr>
 <i>Programming Languages </i> 
@@ -84,7 +84,7 @@ Software Engineer with 2+ years of backend development experience and a Master�
   <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white">
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
 </p>
-<br><hr>
+<br>
 <strong><i>Contact details 📇  </i></strong>
 <hr>
   <a href="mailto:preetivhegde98@gmail.com">
@@ -94,9 +94,10 @@ Software Engineer with 2+ years of backend development experience and a Master�
   <a href="https://www.linkedin.com/in/preetivhegde/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-<br><hr>
+<br>
 <strong><i>📈 GitHub stats</i></strong>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=preetihegde&show_icons=true&hide_title=true&theme=tokyonight" height="140" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetihegde&layout=compact&theme=tokyonight" height="140" />
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=preetihegde&show_icons=true&hide_title=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetihegde&layout=compact&theme=tokyonight" height="180" />
+</p>

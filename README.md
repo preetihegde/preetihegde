@@ -6,12 +6,12 @@
 <table>
   <tr>
     <td>
-    ### About me 🤗
+     <strong><i> About me 🤗  </i></strong>
     <hr>
 
   Software Engineer with 2+ years of backend development experience and a Master’s in AI. Specializing in Java, Spring Boot, microservices, and cloud platforms (AWS). Proven success in building scalable, secure, and high-performance services. A collaborative team player, eager to apply practical and industry experience to impactful software projects.
   <br><br>
-    ### What I bring 😌
+     <strong><i>What I bring 😌 </i></strong> <br>
     - 🧩 Solving real-world innovative problems <br>
     - ✨ Clean code <br> 
     - 👤 Independent & user-focused <br>
@@ -25,9 +25,8 @@
   
   <tr>
     <td>
-      ### Contact details 📇
+      <strong><i>Contact details 📇  </i></strong>
       <hr>
-      <p align="center">
         <a href="mailto:preetivhegde98@gmail.com">
           <img src="https://img.shields.io/badge/Email-preetivhegde98%40gmail.com-a855f7?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email">
         </a>
@@ -35,7 +34,6 @@
         <a href="https://www.linkedin.com/in/preetivhegde/">
           <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-      </p>
     </td>
   </tr>
 

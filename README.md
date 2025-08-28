@@ -1,14 +1,16 @@
-<p align="center">
-  <img src="assets/front_banner.gif" alt="Preeti Hegde — banner" width="1000">
-</p>
-
-<!-- Stacked panels -->
 <table>
+   <tr>
+    <td>
+      <p align="center">
+      <img src="assets/front_banner.gif" alt="Preeti Hegde — banner" width="1000">
+      </p>
+    </td>
+   </tr>
+
   <tr>
     <td>
      <strong><i> About me 🤗  </i></strong>
     <hr>
-
   Software Engineer with 2+ years of backend development experience and a Master’s in AI. Specializing in Java, Spring Boot, microservices, and cloud platforms (AWS). Proven success in building scalable, secure, and high-performance services. A collaborative team player, eager to apply practical and industry experience to impactful software projects.
   <br><br>
      <strong><i>What I bring 😌 </i></strong> <br>
@@ -22,12 +24,12 @@
     - 🤝 Growth with support & honest feedback <br>
     </td>
   </tr>
-  </table>
 
+ <tr>
+    <td>
+      <strong> <i> 🛠️ Skills </i></strong>
 <hr>
-## 🛠️ Skills
-
-**Programming Languages**  
+<i> Programming Languages </i> 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-0b0f17?style=flat-square&logo=openjdk&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-0b0f17?style=flat-square&logo=python&logoColor=white">
@@ -89,11 +91,9 @@
   <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-0b0f17?style=flat-square&logo=microsoftpowerpoint&logoColor=white">
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-0b0f17?style=flat-square&logo=tableau&logoColor=white">
 </p>
-
-
-
+</tr>
+</td>
   
-  <table>
   <tr>
     <td>
       <strong><i>Contact details 📇  </i></strong>
@@ -107,9 +107,16 @@
         </a>
     </td>
   </tr>
-</table>
 
-### 📈 GitHub stats
+ <tr>
+    <td>
+<strong><i>📈 GitHub stats</i></strong>
+      <hr>
+      <tr>
+    <td>
 <img src="https://github-readme-stats.vercel.app/api?username=preetihegde&show_icons=true&hide_title=true&theme=tokyonight" height="140" />
+    </td>
+    <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetihegde&layout=compact&theme=tokyonight" height="140" />
-
+    </td>
+ </table>

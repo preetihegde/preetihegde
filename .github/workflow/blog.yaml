@@ -1,0 +1,31 @@
+name: Update blog list
+on:
+  schedule: [{ cron: "0 7 * * *" }]
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch RSS and update README
+        run: |
+          pip install feedparser
+          python - <<'PY'
+import feedparser, re, pathlib
+RSS = "https://medium.com/feed/@yourhandle"  # change to your RSS
+d = feedparser.parse(RSS)
+items = [f"- [{e.title}]({e.link})" for e in d.entries[:5]]
+readme = pathlib.Path("README.md").read_text(encoding="utf-8")
+new = re.sub(
+    r"(<!-- BLOG-POST-LIST:START -->)(.*?)(<!-- BLOG-POST-LIST:END -->)",
+    "\\1\n" + "\n".join(items) + "\n\\3",
+    readme, flags=re.S)
+pathlib.Path("README.md").write_text(new, encoding="utf-8")
+PY
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "chore: update blog list" || echo "No changes"
+          git push

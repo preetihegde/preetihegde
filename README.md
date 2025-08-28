@@ -100,12 +100,19 @@ Software Engineer with 2+ years of backend development experience and a Masterâ€
 <hr>
 <table>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=preetihegde&show_icons=true&hide_title=true&theme=tokyonight&card_width=420" height="185">
+    <td align="center" valign="top" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=preetihegde&show_icons=true&hide_title=true&theme=tokyonight&card_width=470"
+        height="190"
+      />
     </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetihegde&layout=compact&hide_title=true&theme=tokyonight&card_width=420" height="185">
+    <td align="center" valign="top" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetihegde&layout=compact&hide_title=true&theme=tokyonight&card_width=470"
+        height="190"
+      />
     </td>
   </tr>
 </table>
+
 

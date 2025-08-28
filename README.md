@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/front_banner.gif" alt="Preeti Hegde — banner" width="1000">
 </p>
-<hr>
+
 <!-- Stacked panels -->
 <table>
   <tr>
@@ -22,7 +22,68 @@
     - 🤝 Growth with support & honest feedback <br>
     </td>
   </tr>
+  </table>
+
+## 🛠️ Skills
+
+**Programming Languages**  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,postgres,mysql&theme=dark" />
+  <br><sub>SQL shown via Postgres/MySQL</sub>
+</p>
+
+**ML & Libraries**  
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+  <br>
+  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-6b7280?style=flat-square">
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-6b7280?style=flat-square">
+  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-6b7280?style=flat-square">
+  <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-6b7280?style=flat-square">
+  <img alt="PatchCore" src="https://img.shields.io/badge/PatchCore-6b7280?style=flat-square">
+</p>
+
+**Frameworks**  
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
+</p>
+
+**Protocols / Web Services**  
+<p>
+  <img alt="Spring Microservices" src="https://img.shields.io/badge/Spring%20Microservices-0b0f17?style=flat-square&logo=spring&logoColor=white">
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-0b0f17?style=flat-square&logo=swagger&logoColor=white">
+  <img alt="SOAP" src="https://img.shields.io/badge/SOAP-0b0f17?style=flat-square">
+</p>
+
+**Data Formats**  
+<p>
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-0b0f17?style=flat-square&logo=json&logoColor=white">
+  <img alt="XML" src="https://img.shields.io/badge/XML-0b0f17?style=flat-square">
+</p>
+
+**Cloud / DevOps**  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark" />
+</p>
+
+**Messaging**  
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" />
+</p>
+
+**Developer Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,jira,confluence,bitbucket,tableau&theme=dark" />
+  <br>
+  <img alt="Flowable (BPMN)" src="https://img.shields.io/badge/Flowable%20(BPMN)-0b0f17?style=flat-square">
+  <img alt="Bamboo" src="https://img.shields.io/badge/Bamboo-0b0f17?style=flat-square&logo=atlassian&logoColor=white">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
+  <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white">
+</p>
+
+
   
+  <table>
   <tr>
     <td>
       <strong><i>Contact details 📇  </i></strong>
@@ -36,7 +97,5 @@
         </a>
     </td>
   </tr>
-
-  
 </table>
 

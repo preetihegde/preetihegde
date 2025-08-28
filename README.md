@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="assets/readme_banner.png" alt="Preeti Hegde — banner" width="1000">
-</p>
-
-<h2 align="center">Hi, I’m Preeti Hegde 👩🏻‍💻</h2>
-<p align="center">
-  Backend Java Engineer • AI/ML Enthusiast • Building reliable services & smart data products
+  <img src="assets/front_banner.gif" alt="Preeti Hegde — banner" width="1000">
 </p>
 
 <p align="center">

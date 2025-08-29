@@ -6,7 +6,7 @@
 <hr>
 Software Engineer with 2+ years of backend development experience and a Master’s in AI. Specializing in Java, Spring Boot, microservices, and cloud platforms (AWS). Proven success in building scalable, secure, and high-performance services. A collaborative team player, eager to apply practical and industry experience to impactful software projects.
   <br><br>
-     <strong><i>What I bring 😌 </i></strong> <br>
+     <strong><i>What I bring 🤖🎨 </i></strong> <br>
      &nbsp; 🧩 Solving real-world innovative problems <br>
      &nbsp; ✨ Clean code <br> 
      &nbsp; 👤 Independent & user-focused <br>
@@ -17,7 +17,7 @@ Software Engineer with 2+ years of backend development experience and a Master�
      &nbsp; 🤝 Growth with support & honest feedback <br>
 
  <br>
- <strong> <i> 🛠️ Skills </i></strong>
+ <strong> <i> Skills 🛠️</i></strong>
 <hr>
 <i>Programming Languages </i> 
 <p>
@@ -96,7 +96,7 @@ Software Engineer with 2+ years of backend development experience and a Master�
   </a>
 <br>
 <br>
-<strong><i>📈 GitHub stats</i></strong>
+<strong><i> GitHub stats 📈 </i></strong>
 <hr>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=preetihegde&show_icons=true&theme=tokyonight" height="180" /> &nbsp;  &nbsp;  &nbsp; 

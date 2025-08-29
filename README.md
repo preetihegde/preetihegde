@@ -7,14 +7,14 @@
 Software Engineer with 2+ years of backend development experience and a Master’s in AI. Specializing in Java, Spring Boot, microservices, and cloud platforms (AWS). Proven success in building scalable, secure, and high-performance services. A collaborative team player, eager to apply practical and industry experience to impactful software projects.
   <br><br>
      <strong><i>What I bring 😌 </i></strong> <br>
-    - 🧩 Solving real-world innovative problems <br>
-    - ✨ Clean code <br> 
-    - 👤 Independent & user-focused <br>
-    - 🧘 Continuous learning & improving <br>
-    - 🔎 Deep dive into data & domain <br>
-    - 📈 Positive and Solution-Oriented mindset <br>
-    - 📚 Maintaining proper Documentation and Runbooks <br>
-    - 🤝 Growth with support & honest feedback <br>
+     &nbsp; 🧩 Solving real-world innovative problems <br>
+     &nbsp; ✨ Clean code <br> 
+     &nbsp; 👤 Independent & user-focused <br>
+     &nbsp; 🧘 Continuous learning & improving <br>
+     &nbsp; 🔎 Deep dive into data & domain <br>
+     &nbsp; 📈 Positive and Solution-Oriented mindset <br>
+     &nbsp; 📚 Maintaining proper Documentation and Runbooks <br>
+     &nbsp; 🤝 Growth with support & honest feedback <br>
 
  <br>
  <strong> <i> 🛠️ Skills </i></strong>

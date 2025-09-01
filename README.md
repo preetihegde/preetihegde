@@ -96,7 +96,7 @@ Software Engineer with 2+ years of backend development experience and a Masterâ€
   </a>
 <br>
  <a href="https://medium.com/@preetivhegde">
-    <img src="https://img.shields.io/badge/Medium-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-Read here-E97627?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 <br>
 <strong><i> GitHub stats ğŸ“ˆ </i></strong>

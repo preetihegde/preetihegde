@@ -4,7 +4,9 @@
 
 <strong><i> About me 🤗  </i></strong>
 <hr>
-Software Engineer with 2+ years of backend development experience and a Master’s in AI. Specializing in Java, Spring Boot, microservices, and cloud platforms (AWS). Proven success in building scalable, secure, and high-performance services. A collaborative team player, eager to apply practical and industry experience to impactful software projects.
+I am a Software Engineer with a Master’s in Artificial Intelligence, blending strong backend development skills with a deep passion for AI. My journey has taken me from building reliable Java Spring Boot microservices to developing intelligent models for real-world challenges in computer vision, anomaly detection, and predictive forecasting.
+
+What drives me is the bridge between robust engineering and innovative AI, turning research into practical, scalable solutions. I enjoy working in collaborative teams, where technology meets creativity, and I’m eager to bring this spirit into impactful projects in Software Engineering, Backend Development, or AI/ML across Germany.
   <br><br>
      <strong><i>What I bring 🤖🎨 </i></strong> <br>
      &nbsp; 🧩 Solving real-world innovative problems <br>

@@ -98,7 +98,11 @@ What drives me is the bridge between robust engineering and innovative AI, turni
   </a>
 <br>
  <a href="https://medium.com/@preetivhegde">
-    <img src="https://img.shields.io/badge/Medium-Read here-E97627?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-Read Here-E97627?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+<br>
+<a href="https://portfolio-preeti.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Check It Out-E97647?style=for-the-badge&logo=portfolio&logoColor=white" alt="Medium">
   </a>
 <br>
 <strong><i> GitHub stats 📈 </i></strong>

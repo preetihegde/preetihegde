@@ -31,13 +31,10 @@ What drives me is the bridge between robust engineering and innovative AI, turni
 <i> Machine Learning & Libraries</i>  
 <p>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F89939?style=flat&logo=scikitlearn&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-4D77CF?style=flat&logo=numpy&logoColor=white">
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
   <img alt="Computer Vision"   src="https://img.shields.io/badge/-Computer%20Vision-a855f7?style=flat&logoColor=white">
-  <img alt="NLP"               src="https://img.shields.io/badge/-NLP-60a5fa?style=flat&logoColor=white">
   <img alt="Deep Learning"     src="https://img.shields.io/badge/-Deep%20Learning-ec4899?style=flat&logoColor=white">
   <img alt="Neural Networks"   src="https://img.shields.io/badge/-Neural%20Networks-34d399?style=flat&logoColor=white">
   <img alt="PatchCore" src="https://img.shields.io/badge/PatchCore-7E57C2?style=flat&logoColor=white">
@@ -84,7 +81,6 @@ What drives me is the bridge between robust engineering and innovative AI, turni
   <img alt="Bamboo" src="https://img.shields.io/badge/Bamboo-0052CC?style=flat&logo=atlassian&logoColor=white">
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white">
   <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white">
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
 </p>
 <br>
 <strong><i>Contact details 📇  </i></strong>
